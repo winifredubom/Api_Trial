@@ -137,6 +137,8 @@ fun ImageRow(product: Product) {
 
 }
 
+// new change
+
 @Composable
 fun PictureCard(picture: String) {
         Box(modifier = Modifier
